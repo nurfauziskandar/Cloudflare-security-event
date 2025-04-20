@@ -1,5 +1,5 @@
 # Cloudflare x MongoDB
-Repositori ini dibuat untuk melakukan export data Cloudflare security event ke mongodb, yang dimana ini menjadi solusi dari limitasi dari plan yang dipilih pada cloudflare 
+This repository was created to export Cloudflare security event data to MongoDB, which is a workaround for the limitations of the selected plan in Cloudflare. 
 
 ## Install dependency
 ```
